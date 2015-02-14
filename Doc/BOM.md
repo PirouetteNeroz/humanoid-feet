@@ -27,7 +27,7 @@
 
 ### Sensors:
 It is possible to add 4 sensors per foot for detecting sole contact
-- 8 sensors Interlink Electronics 0.5" Circular FSR [4]
+- 8 sensors [Interlink Electronics 0.5" Circular FSR] [4]
 
 ### Sensors:
 Add Arduino to connect sensor. Use the board you want
@@ -37,9 +37,9 @@ Add Arduino to connect sensor. Use the board you want
 
 
 ## Mechanics
-- 4x spring G_121_160_0400[1]
-- 4x spring G_100_110_0350 [2]
-- 4x bearing JFM-0507-03 [3]
+- 4x spring [G_121_160_0400] [1]
+- 4x spring [G_100_110_0350] [2]
+- 4x bearing [JFM-0507-03] [3]
 
 
 
