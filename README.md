@@ -2,6 +2,7 @@
 
 I create a semi-passive bio-inspired humanoid foot during my last internship for my engineering school. The solution is semi-passive ankle (motor for the sagittal rotation and spring for the frontal rotation) in addition this foot has toes. The foot is human like foot,it respect the dimension of the 2 year old child and it is possible to put this foot into an shoes (size 23 EU). It is compatible with robotics motor MX28. I appreciate your comment and if you want to buy this model or information, please write me a email
 
+![Trunk Assembled](Img/feet.jpg)
 
 ![Trunk Assembled](Img/poppy_feet.jpg)
 
