@@ -40,6 +40,11 @@ Add Arduino to connect sensor. Use the board you want
 - 4x spring [G_121_160_0400] [1]
 - 4x spring [G_100_110_0350] [2]
 - 4x bearing [JFM-0507-03] [3]
+- 10x nuts M2
+- 6x nuts M2.5
+- 10x Wrench Bolt M2*8
+- 4x Wrench Bolt M2.5*4
+- 2x Wrench Bolt M2.5*8
 
 
 
